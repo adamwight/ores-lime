@@ -1,3 +1,4 @@
 lime
 editquality
+jupyter-notebook
 revscoring
